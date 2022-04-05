@@ -12,6 +12,6 @@ Languages and Tools
 
 ## Follow Me
 
+
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/saitov.87)
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram)]
-(https://telegram.me/timlucosbot)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram)](https://telegram.me/timlucosbot)
